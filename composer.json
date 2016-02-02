@@ -1,5 +1,5 @@
 {
-    "name": "compo/cache",
+    "name": "comporu/cache",
     "description": "Provides an cache interface for several adapters (Apc, File, Mongo, Memcached, Mysql, ... )",
     "keywords": ["cache", "apc", "file", "memcached", "mysql", "mongo", "redis"],
     "type": "library",
