@@ -30,6 +30,5 @@
                 "psr-4": {
                     "Desarrolla2\\Cache\\": "src/"
                 }
-            },
-    "minimum-stability": "dev"
+            }
 }
